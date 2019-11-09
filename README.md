@@ -1,3 +1,3 @@
-# Website under development
+# View website
 
-[View here](https://nawjeet.github.io)
+[here](https://nawjeet.github.io)
