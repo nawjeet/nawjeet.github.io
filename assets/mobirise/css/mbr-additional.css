@@ -710,39 +710,69 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rTNoa0PPPV {
+.cid-rTOb3JG8HU {
   background-color: #ffffff;
 }
-.cid-rTNoa0PPPV .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+.cid-rTOb3JG8HU .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
 }
-.cid-rTNoa0PPPV .icons-media-container .mbr-iconfont {
-  font-size: 96px;
+.cid-rTOb3JG8HU .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-rTOb3JG8HU .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-rTOb3JG8HU .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-rTOb3JG8HU .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-rTOb3JG8HU a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-rTOb3JG8HU a.close:hover {
   color: #ffffff;
 }
-.cid-rTNoa0PPPV .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-rTNoa0PPPV .mbr-text {
-  color: #ffffff;
-}
-.cid-rTNoa0PPPV .card {
-  padding-bottom: 1.5rem;
-}
-.cid-rTNoa0PPPV H1 {
+.cid-rTOb3JG8HU P {
   color: #232323;
 }
-.cid-rTNoa0PPPV .mbr-text,
-.cid-rTNoa0PPPV .mbr-section-btn {
+.cid-rTOb3JG8HU H1 {
   color: #232323;
 }
-.cid-rTNoa0PPPV H5 {
+.cid-rTOb3JG8HU .icon-description {
   color: #232323;
 }
