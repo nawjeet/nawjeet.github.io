@@ -43,9 +43,7 @@
     ],
     "uniqCompNum": 44,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/nawjeet/Documents"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
