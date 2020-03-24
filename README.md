@@ -1,3 +1,3 @@
 # View website
 
-[here](https://nawjeet.000webhostapp.com)
+[here](https://nawjeet.github.io)
