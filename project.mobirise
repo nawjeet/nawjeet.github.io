@@ -32,6 +32,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
+    "favicon": false,
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 1,
     "versionPublish": "4.12.3"
   },
@@ -39,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Nawjeet",
+        "meta_descr": "View my portfolio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
